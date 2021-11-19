@@ -3,7 +3,7 @@ name: 'Islandora 8'
 mail: admin@example.com
 slogan: ''
 page:
-  403: ''
+  403: '/user/login?destination=document.location.pathname'
   404: ''
   front: /node/6
 admin_compact_mode: false
