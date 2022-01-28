@@ -9665,12 +9665,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Islandora-Devops/islandora_starter_theme.git",
-                "reference": "195960af3ebccaf7072c2809a10494baad8b7cf4"
+                "reference": "46acf5d2b92b12484dd855b4f27973875e7020dc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Islandora-Devops/islandora_starter_theme/zipball/195960af3ebccaf7072c2809a10494baad8b7cf4",
-                "reference": "195960af3ebccaf7072c2809a10494baad8b7cf4",
+                "url": "https://api.github.com/repos/Islandora-Devops/islandora_starter_theme/zipball/46acf5d2b92b12484dd855b4f27973875e7020dc",
+                "reference": "46acf5d2b92b12484dd855b4f27973875e7020dc",
                 "shasum": ""
             },
             "require": {
@@ -9682,7 +9682,7 @@
             ],
             "description": "SASS subtheme for Barrio Theme.",
             "homepage": "http://drupal.org/project/bootstrap_sass",
-            "time": "2022-01-28T17:42:39+00:00"
+            "time": "2022-01-28T18:29:02+00:00"
         },
         {
             "name": "islandora/jsonld",
