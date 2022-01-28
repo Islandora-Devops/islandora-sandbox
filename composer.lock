@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6267298558a2a9369e56d5b64139abe2",
+    "content-hash": "90fcd9cf3e1bc101a7061ab7f15d048a",
     "packages": [
         {
             "name": "alchemy/zippy",
@@ -8442,16 +8442,16 @@
         },
         {
             "name": "drush/drush",
-            "version": "10.6.2",
+            "version": "10.6.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drush-ops/drush.git",
-                "reference": "0a570a16ec63259eb71195aba5feab532318b337"
+                "reference": "d36bca3322555a6f94edc94439873afcde2bbe90"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drush-ops/drush/zipball/0a570a16ec63259eb71195aba5feab532318b337",
-                "reference": "0a570a16ec63259eb71195aba5feab532318b337",
+                "url": "https://api.github.com/repos/drush-ops/drush/zipball/d36bca3322555a6f94edc94439873afcde2bbe90",
+                "reference": "d36bca3322555a6f94edc94439873afcde2bbe90",
                 "shasum": ""
             },
             "require": {
@@ -8469,7 +8469,7 @@
                 "league/container": "^2.5 || ^3.4",
                 "php": ">=7.1.3",
                 "psr/log": "~1.0",
-                "psy/psysh": ">=0.6 <0.11",
+                "psy/psysh": "~0.6",
                 "symfony/event-dispatcher": "^3.4 || ^4.0",
                 "symfony/finder": "^3.4 || ^4.0 || ^5",
                 "symfony/var-dumper": "^3.4 || ^4.0 || ^5.0",
@@ -8576,7 +8576,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2021-12-15T17:09:54+00:00"
+            "time": "2021-10-05T11:14:14+00:00"
         },
         {
             "name": "easyrdf/easyrdf",
@@ -9547,11 +9547,11 @@
         },
         {
             "name": "islandora/islandora_install_profile_demo",
-            "version": "dev-main",
+            "version": "dev-theme_testing",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Islandora-Devops/islandora_install_profile_demo.git",
-                "reference": "afa7da915c84280b527a1c0924957b5cb28001ce"
+                "reference": "fb8fd098e5d86478b72caa7467ab003bbf975207"
             },
             "require": {
                 "composer/installers": "^1.9",
@@ -9625,7 +9625,7 @@
                 "islandora/controlled_access_terms": "2.x-dev",
                 "islandora/islandora_base_theme": "dev-main",
                 "islandora/islandora_defaults": "2.x-dev",
-                "islandora/islandora_starter_theme": "dev-main",
+                "islandora/islandora_starter_theme": "dev-default_colours",
                 "islandora/openseadragon": "2.x-dev",
                 "mglaman/drupal-check": "1.1.10",
                 "mjordan/islandora_workbench_integration": "^1.0",
@@ -9657,20 +9657,20 @@
                 }
             ],
             "description": "Collection of Islandora D8 Profiles",
-            "time": "2022-01-28T14:40:07+00:00"
+            "time": "2022-01-28T17:52:28+00:00"
         },
         {
             "name": "islandora/islandora_starter_theme",
-            "version": "dev-main",
+            "version": "dev-default_colours",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Islandora-Devops/islandora_starter_theme.git",
-                "reference": "c1d6773275f1c48061daff1a079282f4a0993338"
+                "reference": "195960af3ebccaf7072c2809a10494baad8b7cf4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Islandora-Devops/islandora_starter_theme/zipball/c1d6773275f1c48061daff1a079282f4a0993338",
-                "reference": "c1d6773275f1c48061daff1a079282f4a0993338",
+                "url": "https://api.github.com/repos/Islandora-Devops/islandora_starter_theme/zipball/195960af3ebccaf7072c2809a10494baad8b7cf4",
+                "reference": "195960af3ebccaf7072c2809a10494baad8b7cf4",
                 "shasum": ""
             },
             "require": {
@@ -9682,7 +9682,7 @@
             ],
             "description": "SASS subtheme for Barrio Theme.",
             "homepage": "http://drupal.org/project/bootstrap_sass",
-            "time": "2022-01-28T14:39:54+00:00"
+            "time": "2022-01-28T17:42:39+00:00"
         },
         {
             "name": "islandora/jsonld",
@@ -12314,29 +12314,29 @@
         },
         {
             "name": "psy/psysh",
-            "version": "v0.10.12",
+            "version": "v0.11.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/bobthecow/psysh.git",
-                "reference": "a0d9981aa07ecfcbea28e4bfa868031cca121e7d"
+                "reference": "570292577277f06f590635381a7f761a6cf4f026"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bobthecow/psysh/zipball/a0d9981aa07ecfcbea28e4bfa868031cca121e7d",
-                "reference": "a0d9981aa07ecfcbea28e4bfa868031cca121e7d",
+                "url": "https://api.github.com/repos/bobthecow/psysh/zipball/570292577277f06f590635381a7f761a6cf4f026",
+                "reference": "570292577277f06f590635381a7f761a6cf4f026",
                 "shasum": ""
             },
             "require": {
                 "ext-json": "*",
                 "ext-tokenizer": "*",
-                "nikic/php-parser": "~4.0|~3.0|~2.0|~1.3",
-                "php": "^8.0 || ^7.0 || ^5.5.9",
-                "symfony/console": "~5.0|~4.0|~3.0|^2.4.2|~2.3.10",
-                "symfony/var-dumper": "~5.0|~4.0|~3.0|~2.7"
+                "nikic/php-parser": "^4.0 || ^3.1",
+                "php": "^8.0 || ^7.0.8",
+                "symfony/console": "^6.0 || ^5.0 || ^4.0 || ^3.4",
+                "symfony/var-dumper": "^6.0 || ^5.0 || ^4.0 || ^3.4"
             },
             "require-dev": {
                 "bamarni/composer-bin-plugin": "^1.2",
-                "hoa/console": "3.17.*"
+                "hoa/console": "3.17.05.02"
             },
             "suggest": {
                 "ext-pcntl": "Enabling the PCNTL extension makes PsySH a lot happier :)",
@@ -12351,7 +12351,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-main": "0.10.x-dev"
+                    "dev-main": "0.11.x-dev"
                 }
             },
             "autoload": {
@@ -12381,7 +12381,7 @@
                 "interactive",
                 "shell"
             ],
-            "time": "2021-11-30T14:05:36+00:00"
+            "time": "2022-01-03T13:58:38+00:00"
         },
         {
             "name": "ralouphie/getallheaders",
