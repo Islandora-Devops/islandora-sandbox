@@ -792,16 +792,16 @@
         },
         {
             "name": "consolidation/log",
-            "version": "2.0.4",
+            "version": "2.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/consolidation/log.git",
-                "reference": "fc9ec5476ba13a31778695bd2d4f2fa0b0684356"
+                "reference": "9efdd57031bf2fda033f6a256cd8b7902a4e6b92"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/consolidation/log/zipball/fc9ec5476ba13a31778695bd2d4f2fa0b0684356",
-                "reference": "fc9ec5476ba13a31778695bd2d4f2fa0b0684356",
+                "url": "https://api.github.com/repos/consolidation/log/zipball/9efdd57031bf2fda033f6a256cd8b7902a4e6b92",
+                "reference": "9efdd57031bf2fda033f6a256cd8b7902a4e6b92",
                 "shasum": ""
             },
             "require": {
@@ -836,7 +836,7 @@
                 }
             ],
             "description": "Improved Psr-3 / Psr\\Log logger based on Symfony Console components.",
-            "time": "2021-12-30T19:05:18+00:00"
+            "time": "2022-01-30T03:49:07+00:00"
         },
         {
             "name": "consolidation/output-formatters",
@@ -5204,7 +5204,7 @@
             "extra": {
                 "drupal": {
                     "version": "8.x-1.7",
-                    "datestamp": "1643082533",
+                    "datestamp": "1643314519",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -6384,6 +6384,10 @@
                     "name": "Lucas Hedding",
                     "homepage": "https://www.drupal.org/u/heddn",
                     "role": "Maintainer"
+                },
+                {
+                    "name": "mikeryan",
+                    "homepage": "https://www.drupal.org/user/4420"
                 }
             ],
             "description": "Enhancements to core migration support.",
@@ -9665,12 +9669,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Islandora-Devops/islandora_starter_theme.git",
-                "reference": "46acf5d2b92b12484dd855b4f27973875e7020dc"
+                "reference": "e556683ca31778c04603da3bea511ed36bee6875"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Islandora-Devops/islandora_starter_theme/zipball/46acf5d2b92b12484dd855b4f27973875e7020dc",
-                "reference": "46acf5d2b92b12484dd855b4f27973875e7020dc",
+                "url": "https://api.github.com/repos/Islandora-Devops/islandora_starter_theme/zipball/e556683ca31778c04603da3bea511ed36bee6875",
+                "reference": "e556683ca31778c04603da3bea511ed36bee6875",
                 "shasum": ""
             },
             "require": {
@@ -9682,7 +9686,7 @@
             ],
             "description": "SASS subtheme for Barrio Theme.",
             "homepage": "http://drupal.org/project/bootstrap_sass",
-            "time": "2022-01-28T18:29:02+00:00"
+            "time": "2022-01-31T00:07:12+00:00"
         },
         {
             "name": "islandora/jsonld",
