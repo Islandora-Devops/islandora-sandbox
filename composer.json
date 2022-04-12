@@ -2,22 +2,21 @@
     "name": "islandora/islandora-sandbox",
     "type": "project",
     "description": "Islandora project to deploy with demo install profile.",
-    "repositories" : [
+    "repositories": [
         {
-                "type": "vcs",
-                "url": "https://github.com/Islandora-Devops/islandora_base_theme.git",
+            "type": "vcs",
+            "url": "https://github.com/Islandora-Devops/islandora_base_theme.git",
             "no-api": true
-            },
-
+        },
         {
             "type": "vcs",
             "url": "https://github.com/Islandora-Devops/islandora_starter_theme.git",
-	    "no-api": true
+            "no-api": true
         },
         {
             "type": "git",
             "url": "https://github.com/Islandora-Devops/islandora_install_profile_demo.git",
-	    "no-api": true
+            "no-api": true
         },
         {
             "type": "composer",
@@ -30,7 +29,7 @@
         {
             "type": "vcs",
             "url": "https://github.com/mjordan/islandora_workbench_integration.git",
-	    "no-api": true
+            "no-api": true
         },
         {
             "type": "package",
@@ -147,7 +146,7 @@
             ],
             "post-create-project-cmd-message": [
                 "<bg=blue;fg=white>                                                         </>",
-                "<bg=blue;fg=white>  Congratulations, you’ve installed the Drupal codebase  </>",
+                "<bg=blue;fg=white>  Congratulations, you've installed the Drupal codebase  </>",
                 "<bg=blue;fg=white>  from the drupal/recommended-project template!          </>",
                 "<bg=blue;fg=white>                                                         </>",
                 "",
