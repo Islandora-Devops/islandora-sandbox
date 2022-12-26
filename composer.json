@@ -15,7 +15,7 @@
         },
         {
             "type": "git",
-            "url": "https://github.com/rosiel/islandora_install_profile_demo.git",
+            "url": "https://github.com/Islandora-Devops/islandora_install_profile_demo.git",
 	        "no-api": true
         },
         {
@@ -79,7 +79,7 @@
         "drupal/core-composer-scaffold": "^9.2",
         "drupal/core-project-message": "^9.2",
         "drupal/core-recommended": "^9.2",
-        "islandora/islandora_install_profile_demo": "dev-fix-collections",
+        "islandora/islandora_install_profile_demo": "dev-main",
         "library/pdf.js": "2.4.456",
         "symfony/string": "^5.4"
     },

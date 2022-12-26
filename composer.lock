@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a61e8fc1f72225cac527c13d4f7cbd30",
+    "content-hash": "e793b0f13f6425dfc258d5817bb6c31c",
     "packages": [
         {
             "name": "alchemy/zippy",
@@ -9806,11 +9806,11 @@
         },
         {
             "name": "islandora/islandora_install_profile_demo",
-            "version": "dev-fix-collections",
+            "version": "dev-main",
             "source": {
                 "type": "git",
-                "url": "https://github.com/rosiel/islandora_install_profile_demo.git",
-                "reference": "ed7baba89a9868fcc7187449ce8d2b8ce556b209"
+                "url": "https://github.com/Islandora-Devops/islandora_install_profile_demo.git",
+                "reference": "e7e50e8e4fe2c29b34bbb36a7bbc32c38edf480d"
             },
             "require": {
                 "composer/installers": "^1.9",
@@ -9833,7 +9833,7 @@
                 "drupal/config_suite": "^2.0",
                 "drupal/config_update": "^1.7",
                 "drupal/console": "dev-master",
-                "drupal/context": "4.x-dev#14c362a5c57457692cdb1335c24619e6ae76af94",
+                "drupal/context": "^4.1",
                 "drupal/devel": "^4.1",
                 "drupal/ds": "^3.13",
                 "drupal/environment_indicator": "^4.0",
@@ -9900,6 +9900,7 @@
                 "drupal/twig_xdebug": "^1.2",
                 "phpspec/prophecy-phpunit": "^2"
             },
+            "default-branch": true,
             "type": "drupal-profile",
             "license": [
                 "GPL-2.0-or-later"
@@ -9917,7 +9918,7 @@
                 }
             ],
             "description": "Collection of Islandora D8 Profiles",
-            "time": "2022-11-30T23:34:46+00:00"
+            "time": "2022-12-26T14:40:36+00:00"
         },
         {
             "name": "islandora/islandora_starter_theme",
